@@ -82,6 +82,7 @@ alias archey="archey -c"
 alias imgburn="cdrdao write --device 'IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/XHC1@14/XHC1@14000000/PRT2@14200000/MacBook Air SuperDrive@14200000/IOUSBHostInterface@0/IOUSBMassStorageInterfaceNub/IOUSBMassStorageDriverNub/com_apple_driver_AppleUSBODD/IOSCSILogicalUnitNub@0/com_apple_driver_AppleUSBODDType05/IODVDServices' --driver generic-mmc"
 alias musik="mpd && mpdscribble && ncmpcpp"
 alias mame="mame64"
+alias vim="nvim"
 
 
 #-------------#
